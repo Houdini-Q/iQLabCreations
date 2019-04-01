@@ -53,11 +53,6 @@ nav li a:hover {
   -webkit-text-fill-color: transparent;
 }
 
-/* nav li a:focus {
-  background-color: #F272E0;
-  color: black;
-} */
-
 .logospace {
   height: 150px;
   background-color: rgba(5, 5, 5, 1);
@@ -92,12 +87,11 @@ p {
 }
 
 h1 {
-  color: black;
-  margin-top: 150px;
+  color: silver
+  margin-top: 50px;
   margin-bottom: 150px;
   text-align: center;
-  font-family: 'dirtyqueen';
-  font-size: 5em;
+  font-size: 2em;
 }
 
 #services {
